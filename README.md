@@ -2,8 +2,10 @@
 A from scratch project about Vaccination portal to register vaccine and get vaccinated
 
 
-# Data Models
+# Data Model
 
+#### Vaccine
+`
 Vaccine
 {
   ID: UUID
@@ -11,15 +13,17 @@ Vaccine
   CountryOfOrigin: String,
   ValidAge: String,
 }
+`
 
-Person
+#### Person
+`Person
 {
   Name: String,
   DOB:String,
   ID: String,
   Verified:String
   DosageNumber:String
-}
+}`
 
 Register
 {
