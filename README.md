@@ -1,5 +1,6 @@
 # vaccination-portal
 A from scratch project about Vaccination portal to register vaccine and get vaccinated
+Basic IDEA here is learn the things from scratch in the Microservice development and also write some guides around the same.
 
 
 # Data Model
